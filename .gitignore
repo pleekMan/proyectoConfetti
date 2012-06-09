@@ -1,0 +1,6 @@
+*.xcodeproject
+build/
+*.app/
+*.xcconfig
+*.plist
+
