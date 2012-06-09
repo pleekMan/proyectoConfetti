@@ -1,6 +1,8 @@
-*.xcodeproject
+*.xcodeproj
 build/
 *.app/
 *.xcconfig
 *.plist
+.DS_Store
+*/DS_Store
 
